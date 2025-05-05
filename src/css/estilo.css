@@ -96,8 +96,8 @@ button{
 
 /*ELEMENTO BOTTOM COM EFEITO*/
 button:hover{
-    background: #021b2b;/*COR DO FUNDO*/
-    color:aqua;/*COR DA FONTE*/
+    background: #006311;/*COR DO FUNDO*/
+    color:rgb(2, 175, 25);/*COR DA FONTE*/
 }
 
 /*ELEMENTO ASIDE*/
