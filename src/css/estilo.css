@@ -210,3 +210,11 @@ ul {
     background-image: cover;
     padding: 100px;
 }
+
+
+#tituloInicial{
+    color: #fff;
+    padding: 200px;
+    margin: 125px;
+    text-align: center;
+}
